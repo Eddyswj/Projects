@@ -41,6 +41,6 @@ This project was developed collaboratively with my classmates as part of a group
 
 ### 👥 Group Project: **StrideSync**
 
-**StrideSync** is a wearable device designed to help paired runners maintain the same pace, even when physically apart.  
+**StrideSync** is a wearable device designed to help paired runners maintain the same pace, even when physically apart. I was developed collaboratively with my classmates.  
 - **Functionality**: Two users wear visors that compare their running speeds using GPS data. The visors communicate via a web server hosted on Raspberry Pi devices, displaying dynamic lights to signal whether the users should speed up or slow down. This keeps the runners synchronized without needing to stay close to each other.  
 - **Design Process**: We integrated software, hardware, and design tools to create both the functionality and the accompanying poster for the project.
