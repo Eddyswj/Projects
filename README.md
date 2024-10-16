@@ -28,5 +28,5 @@
 - **AdaFruit Neopixels** – LED light display  
 - **Canva, Adobe Illustrator, Photoshop** – Poster design
 
-### 📝 Project:
+### 👥 Group Project:
 - **StrideSync**
