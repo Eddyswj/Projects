@@ -9,12 +9,15 @@ Compilation of projects that I had done.
 - **Ultimaker Cura** – 3D printing slicer
 
 ### 📝 Projects:
-- **Parametric Design**
-Using combination of polygons and extrusions<img width="247" alt="image" src="https://github.com/user-attachments/assets/55357472-d68a-4cfe-b1bf-5e136dccc2c4">
-
-
+- **Generative Design**
+Generated through a combination of polygons and extrusions that are controlled with various input variables to differ its length or shape
+Colour was determined by the angle of the extrusions of the object within the range of 0 to 360 degree
+The animation was generated through using the sine and cosine graph that was set against time to create the oscillating motion within Rhinoceros
   
-- **Generative Design**  
+- **Parametric Design**
+Parametric design is based on the Fibonacci sequence which is presnet in the increasing squares inside each rectangle to the spirals that increases in distance from the centre of the design
+The sine function is used to create the rippling effects of my design while also imitating the Fibonacci sequence through the expanding and concentric nature of a ripple.
+
 
 
 
