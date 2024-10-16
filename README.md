@@ -1,5 +1,5 @@
 # 🏫 School Projects
-Compilation of projects that I had done.
+Compilation of projects that I had done or had collaborated with.
 
 ## **📐 Computational Thinking in Design **
 
@@ -17,7 +17,7 @@ The animation was generated through using the sine and cosine graph that was set
   
 - **Parametric Design**
   
-Parametric design is based on the Fibonacci sequence which is presnet in the increasing squares inside each rectangle to the spirals that increases in distance from the centre of the design
+Parametric design is based on the Fibonacci sequence which is present in the increasing squares inside each rectangle to the spirals that increases in distance from the centre of the design
 The sine function is used to create the rippling effects of my design while also imitating the Fibonacci sequence through the expanding and concentric nature of a ripple.
 
 
@@ -26,7 +26,7 @@ The sine function is used to create the rippling effects of my design while also
 
 ---
 
-## **👥 Group Project: Minigames**
+## **👥 Group Project: Acarde Minigames**
 
 ### 🛠️ Tools & Languages:
 - **Python** – Programming language
