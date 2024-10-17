@@ -1,4 +1,5 @@
 import random as rd 
+
 def main():
     while True:
         dude = ['''
