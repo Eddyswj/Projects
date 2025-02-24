@@ -12,7 +12,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 
 #### **Generative Design**
 > <details>
->   <summary>Click for details</summary>
+>   <summary>Click for details<span style="color: white;">Click for details</span></summary>
 >   <br>
 >   A project combining geometric shapes and extrusions, controlled by various input variables to modify length and shape.  
 >
