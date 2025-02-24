@@ -11,15 +11,15 @@ A compilation of individual and collaborative projects I’ve worked on during m
 ### 📝 Projects:
 
 #### **Generative Design**
-<details>
-  <summary>Click for details</summary>
+> <details>
+>   <summary>Click for details</summary>
+> 
+>   A project combining geometric shapes and extrusions, controlled by various input variables to modify length and shape.  
 
-  A project combining geometric shapes and extrusions, controlled by various input variables to modify length and shape.  
+>   - **Color Mapping**: The colors were determined based on the extrusion angles, ranging from 0 to 360 degrees.  
+>   - **Animation**: Using sine and cosine functions plotted against time, I generated an oscillating motion within Rhinoceros, creating a dynamic and flowing animation.
 
-  - **Color Mapping**: The colors were determined based on the extrusion angles, ranging from 0 to 360 degrees.  
-  - **Animation**: Using sine and cosine functions plotted against time, I generated an oscillating motion within Rhinoceros, creating a dynamic and flowing animation.
-
-</details>
+> </details>
 
 #### **Parametric Design**
 <details>
