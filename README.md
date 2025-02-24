@@ -12,9 +12,9 @@ A compilation of individual and collaborative projects I’ve worked on during m
 
 #### **Generative Design**
 <details>
-  <summary style="font-weight: bold; color: #dc3545;">Click for details</summary>
+  <summary>Summary</summary>
   <br>
-  <blockquote style="font-family: 'Arial', sans-serif; color: #333333; background-color: #f8d7da; border-left: 4px solid #dc3545; padding: 10px;">
+  <blockquote style="font-family: 'Arial', sans-serif; color: #de1b2c; background-color: #de1b2c; border-left: 4px solid #dc3545; padding: 10px;">
     A project combining geometric shapes and extrusions, controlled by various input variables to modify length and shape.  
   
   - **Color Mapping**: The colors were determined based on the extrusion angles, ranging from 0 to 360 degrees.  
@@ -26,7 +26,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 
 #### **Parametric Design**
 <details>
-  <summary>Click for details</summary>
+  <summary>Summary</summary>
   <br>
   A Fibonacci sequence-inspired design that integrates mathematical principles with artistic aesthetics.  
 
@@ -43,7 +43,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 - **Python** – Programming language  
 
 <details>
-  <summary>Click for details</summary>
+  <summary>Summary</summary>
   <br>
   This project was developed collaboratively with my classmates as part of a group assignment. We created a collection of six text-based minigames, accessible through a main menu (no GUI). Each game showcases different programming challenges, combining fun gameplay with coding principles.
 
@@ -61,7 +61,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 
 ### 👥 Group Project: **StrideSync**
 <details>
-  <summary>Click for details</summary>
+  <summary>Summary</summary>
   <br>
   **StrideSync** is a wearable device designed to help paired runners maintain the same pace, even when physically apart. It was developed collaboratively with my classmates.  
 
