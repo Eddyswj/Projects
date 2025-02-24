@@ -11,6 +11,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 ### 📝 Projects:
 
 #### **Generative Design**
+> [!IMPORTANT]
 > <details>
 >   <summary>Click for details</summary>
 >   <br>
