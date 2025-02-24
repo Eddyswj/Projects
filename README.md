@@ -55,7 +55,7 @@ This project was developed collaboratively with my classmates as part of a group
 ### 📌 Group Project: **Crop Prediction through ML**  
 A machine learning-powered crop prediction system to assist farmers in making data-driven decisions.  
 
-🔗 [Check out the repository](https://github.com/Eddyswj/DTP)  
+🔗 [Check the repository here](https://github.com/Eddyswj/DTP)  
 
 
 
