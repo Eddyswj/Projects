@@ -1,14 +1,3 @@
-# My Project 🚀
-<p align="center">
-  <img src="https://your-image-url.com" width="200">
-</p>
-<p align="center">
-  <a href="https://your-website.com">Visit Website</a> |
-  <a href="https://github.com/your-repo">GitHub</a>
-</p>
-
-
-
 # 🏫 School Projects  
 A compilation of individual and collaborative projects I’ve worked on during my studies.
 
@@ -55,3 +44,23 @@ This project was developed collaboratively with my classmates as part of a group
 **StrideSync** is a wearable device designed to help paired runners maintain the same pace, even when physically apart. I was developed collaboratively with my classmates.  
 - **Functionality**: Two users wear visors that compare their running speeds using GPS data. The visors communicate via a web server hosted on Raspberry Pi devices, displaying dynamic lights to signal whether the users should speed up or slow down. This keeps the runners synchronized without needing to stay close to each other.  
 - **Design Process**: We integrated software, hardware, and design tools to create both the functionality and the accompanying poster for the project.
+
+
+# **Design Thinking Project**  
+
+### 🚀 Tools & Languages:  
+- **Python** - Machine Learning Model  
+- **HTML & CSS** - Web App  
+
+### 📌 Group Project: **Crop Prediction through ML**  
+A machine learning-powered crop prediction system to assist farmers in making data-driven decisions.  
+
+🔗 [Check out the repository](https://github.com/Eddyswj/DTP)  
+
+
+
+
+
+
+
+
