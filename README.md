@@ -13,7 +13,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 #### **Generative Design**
 > <details>
 >   <summary>Click for details</summary>
-> 
+>   <span style="background-color: #ecf5ff; display: block; padding: 10px; border-radius: 5px;">
 >   A project combining geometric shapes and extrusions, controlled by various input variables to modify length and shape.  
 >
 >   - **Color Mapping**: The colors were determined based on the extrusion angles, ranging from 0 to 360 degrees.  
