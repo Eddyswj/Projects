@@ -1,3 +1,14 @@
+# My Project 🚀
+<p align="center">
+  <img src="https://your-image-url.com" width="200">
+</p>
+<p align="center">
+  <a href="https://your-website.com">Visit Website</a> |
+  <a href="https://github.com/your-repo">GitHub</a>
+</p>
+
+
+
 # 🏫 School Projects  
 A compilation of individual and collaborative projects I’ve worked on during my studies.
 
