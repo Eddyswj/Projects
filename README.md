@@ -12,7 +12,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 
 #### **Generative Design**
 > <details>
->   <summary>Click for details<span style="color: white;">Click for details</span></summary>
+>   <summary>Click for details</summary>
 >   <br>
 >   A project combining geometric shapes and extrusions, controlled by various input variables to modify length and shape.  
 >
@@ -24,7 +24,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 #### **Parametric Design**
 <details>
   <summary>Click for details</summary>
-
+  <br>
   A Fibonacci sequence-inspired design that integrates mathematical principles with artistic aesthetics.  
 
   - **Fibonacci Sequence**: The increasing square sizes and spirals mirror the Fibonacci sequence's proportions.  
@@ -41,7 +41,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 
 <details>
   <summary>Click for details</summary>
-
+  <br>
   This project was developed collaboratively with my classmates as part of a group assignment. We created a collection of six text-based minigames, accessible through a main menu (no GUI). Each game showcases different programming challenges, combining fun gameplay with coding principles.
 
 </details>
@@ -59,7 +59,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 ### 👥 Group Project: **StrideSync**
 <details>
   <summary>Click for details</summary>
-
+  <br>
   **StrideSync** is a wearable device designed to help paired runners maintain the same pace, even when physically apart. It was developed collaboratively with my classmates.  
 
   - **Functionality**: Two users wear visors that compare their running speeds using GPS data. The visors communicate via a web server hosted on Raspberry Pi devices, displaying dynamic lights to signal whether the users should speed up or slow down. This keeps the runners synchronized without needing to stay close to each other.  
