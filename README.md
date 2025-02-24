@@ -15,10 +15,10 @@ A compilation of individual and collaborative projects I’ve worked on during m
 >   <summary>Click for details</summary>
 > 
 >   A project combining geometric shapes and extrusions, controlled by various input variables to modify length and shape.  
-
+>
 >   - **Color Mapping**: The colors were determined based on the extrusion angles, ranging from 0 to 360 degrees.  
 >   - **Animation**: Using sine and cosine functions plotted against time, I generated an oscillating motion within Rhinoceros, creating a dynamic and flowing animation.
-
+>
 > </details>
 
 #### **Parametric Design**
