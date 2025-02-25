@@ -71,7 +71,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 
 ---
 
-# **Design Thinking Project**  
+## **Design Thinking Project**  
 
 ### 🚀 Tools & Languages:  
 - **Python** - Machine Learning Model  
