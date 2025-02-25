@@ -1,4 +1,4 @@
-# 🏫 School Projects  
+# Projects  
 A compilation of individual and collaborative projects I’ve worked on during my studies.
 
 ## **📐 Computational Thinking in Design**
