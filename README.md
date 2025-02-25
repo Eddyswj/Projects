@@ -78,6 +78,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 - **HTML & CSS** - Web App  
 
 ### 📌 Group Project: **Crop Prediction through ML**  
-A machine learning-powered crop prediction system to assist farmers in making data-driven decisions. (Won best project Data Driven World) 
+A machine learning-powered crop prediction system to assist farmers in making data-driven decisions. 
+(Won best project for Data Driven World) 
 
 🔗 [Check the repository here](https://github.com/Eddyswj/DTP)  
