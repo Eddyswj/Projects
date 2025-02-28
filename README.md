@@ -19,7 +19,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
   - **Color Mapping**: The colors were determined based on the extrusion angles, ranging from 0 to 360 degrees.  
   - **Animation**: Using sine and cosine functions plotted against time, I generated an oscillating motion within Rhinoceros, creating a dynamic and flowing animation.
 
-    ![Animation using Grasshopper](https://www.dropbox.com/scl/fi/d82qvlf3fipkbgfyvx3bl/Variation-with-animation-2.gif?rlkey=xty63hcx2k0abrshmvmj5ihlv&st=ny09ty26&dl=0))
+   ![Animation using Grasshopper](https://dl.dropboxusercontent.com/scl/fi/d82qvlf3fipkbgfyvx3bl/Variation-with-animation-2.gif?rlkey=xty63hcx2k0abrshmvmj5ihlv&st=ny09ty26)
 
 
   </blockquote>
