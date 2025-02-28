@@ -54,9 +54,8 @@ A compilation of individual and collaborative projects I’ve worked on during m
   <br>
   This project was developed collaboratively with my classmates as part of a group assignment. We created a collection of six text-based minigames, accessible through a main menu (no GUI). Each game showcases different programming challenges, combining fun gameplay with coding principles.
 
- <video width="600" controls>
-  <source src="https://dl.dropboxusercontent.com/scl/fi/j0rov4gt7894fb48irugc/Arcade-Minigames-Python-Project-Introduction-Video.mp4?rlkey=3vjh6hknxe68w596jhf46u1sf&st=0nrv5hs6" type="video/mp4">
-  Your browser does not support the video tag.
+ <video width="600">
+  https://dl.dropboxusercontent.com/scl/fi/j0rov4gt7894fb48irugc/Arcade-Minigames-Python-Project-Introduction-Video.mp4?rlkey=3vjh6hknxe68w596jhf46u1sf&st=0nrv5hs6
 </video>
 
 
@@ -77,10 +76,18 @@ A compilation of individual and collaborative projects I’ve worked on during m
 <details>
   <summary>Summary</summary>
   <br>
-  **StrideSync** is a wearable device designed to help paired runners maintain the same pace, even when physically apart. It was developed collaboratively with my classmates.  
+  
+  __StrideSync__ is a wearable device designed to help paired runners maintain the same pace, even when physically apart. It was developed collaboratively with my classmates.  
 
   - **Functionality**: Two users wear visors that compare their running speeds using GPS data. The visors communicate via a web server hosted on Raspberry Pi devices, displaying dynamic lights to signal whether the users should speed up or slow down. This keeps the runners synchronized without needing to stay close to each other.  
   - **Design Process**: We integrated software, hardware, and design tools to create both the functionality and the accompanying poster for the project.
+
+  <img src="https://dl.dropboxusercontent.com/scl/fi/n5ltrgp63v1hwxjfgo4y0/dti.jpg?rlkey=wtsmp915oe4vrg1xjkafaesxo&st=6trvleyo" width="400">
+  <img src="https://dl.dropboxusercontent.com/scl/fi/pde97y5jovx35yvn07ev1/dti1.jpg?rlkey=4j1y59h5nkeluf5rruquzjdfd&st=ltepg7np" width="400">
+    
+<video width="600">
+  https://dl.dropboxusercontent.com/scl/fi/lalh938as9zp33q1t6zic/StrideSync-V3.mp4?rlkey=i9ltgu3khf5knkfz54y7parjt&st=i2p1dif3
+</video>
 
 </details>
 
