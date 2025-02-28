@@ -54,9 +54,9 @@ A compilation of individual and collaborative projects I’ve worked on during m
   <br>
   This project was developed collaboratively with my classmates as part of a group assignment. We created a collection of six text-based minigames, accessible through a main menu (no GUI). Each game showcases different programming challenges, combining fun gameplay with coding principles.
 
- <video width="600">
-  https://dl.dropboxusercontent.com/scl/fi/j0rov4gt7894fb48irugc/Arcade-Minigames-Python-Project-Introduction-Video.mp4?rlkey=3vjh6hknxe68w596jhf46u1sf&st=0nrv5hs6
-</video>
+  
+
+https://github.com/user-attachments/assets/2004e9ce-b830-4ae4-a974-9e5b1d5023a5
 
 
 
@@ -85,9 +85,8 @@ A compilation of individual and collaborative projects I’ve worked on during m
   <img src="https://dl.dropboxusercontent.com/scl/fi/n5ltrgp63v1hwxjfgo4y0/dti.jpg?rlkey=wtsmp915oe4vrg1xjkafaesxo&st=6trvleyo" width="400">
   <img src="https://dl.dropboxusercontent.com/scl/fi/pde97y5jovx35yvn07ev1/dti1.jpg?rlkey=4j1y59h5nkeluf5rruquzjdfd&st=ltepg7np" width="400">
     
-<video width="600">
-  https://dl.dropboxusercontent.com/scl/fi/lalh938as9zp33q1t6zic/StrideSync-V3.mp4?rlkey=i9ltgu3khf5knkfz54y7parjt&st=i2p1dif3
-</video>
+[![Click for Video](https://dl.dropboxusercontent.com/scl/fi/1xmxzz0dmv8b54l7owodv/Screenshot-2025-02-28-at-11.28.08-PM.png?rlkey=1gff1nk5xqahy7m2l2y10p0z5&st=n4lho0qw
+)](https://www.dropbox.com/scl/fi/lalh938as9zp33q1t6zic/StrideSync-V3.mp4?rlkey=i9ltgu3khf5knkfz54y7parjt&st=ji2u6n54&dl=0)
 
 </details>
 
