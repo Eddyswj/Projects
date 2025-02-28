@@ -37,7 +37,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
   - **Fibonacci Sequence**: The increasing square sizes and spirals mirror the Fibonacci sequence's proportions.  
   - **Sine Function**: Rippling effects were achieved using sine functions, simulating the expanding, concentric nature of a ripple, visually echoing the sequence.
     
-    ![Animation using Grasshopper](https://dl.dropboxusercontent.com/scl/fi/00zck2qamlq9wvsyfduw8/Animation-using-grasshopper.gif?rlkey=fzbyuc17t5ujiqyuzd40gb0ee&st=8ksvdlk5)
+    <img src="https://dl.dropboxusercontent.com/scl/fi/00zck2qamlq9wvsyfduw8/Animation-using-grasshopper.gif?rlkey=fzbyuc17t5ujiqyuzd40gb0ee&st=8ksvdlk5" width="100">
 
 
 </details>
