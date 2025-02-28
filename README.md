@@ -54,6 +54,9 @@ A compilation of individual and collaborative projects I’ve worked on during m
   <br>
   This project was developed collaboratively with my classmates as part of a group assignment. We created a collection of six text-based minigames, accessible through a main menu (no GUI). Each game showcases different programming challenges, combining fun gameplay with coding principles.
 
+  https://dl.dropboxusercontent.com/scl/fi/j0rov4gt7894fb48irugc/Arcade-Minigames-Python-Project-Introduction-Video.mp4?rlkey=3vjh6hknxe68w596jhf46u1sf&st=0nrv5hs6
+
+
 </details>
 
 ---
