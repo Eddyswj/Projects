@@ -20,6 +20,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
   - **Animation**: Using sine and cosine functions plotted against time, I generated an oscillating motion within Rhinoceros, creating a dynamic and flowing animation.
 
    ![Animation using Grasshopper](https://dl.dropboxusercontent.com/scl/fi/d82qvlf3fipkbgfyvx3bl/Variation-with-animation-2.gif?rlkey=xty63hcx2k0abrshmvmj5ihlv&st=ny09ty26)
+   ![3D Printed Design](https://dl.dropboxusercontent.com/scl/fi/wzahng3plok5s5lroxr77/3D-printed-of-the-design.jpg?rlkey=cmlykcqeghghxk40c25zuqtr5&st=lwdix7aa)
 
 
   </blockquote>
@@ -35,6 +36,9 @@ A compilation of individual and collaborative projects I’ve worked on during m
 
   - **Fibonacci Sequence**: The increasing square sizes and spirals mirror the Fibonacci sequence's proportions.  
   - **Sine Function**: Rippling effects were achieved using sine functions, simulating the expanding, concentric nature of a ripple, visually echoing the sequence.
+    
+    ![Animation using Grasshopper](https://dl.dropboxusercontent.com/scl/fi/00zck2qamlq9wvsyfduw8/Animation-using-grasshopper.gif?rlkey=fzbyuc17t5ujiqyuzd40gb0ee&st=8ksvdlk5)
+
 
 </details>
 
