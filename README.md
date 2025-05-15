@@ -108,6 +108,7 @@ A machine learning-powered crop prediction system to assist farmers in making da
 
 🔗 [Check the repository here](https://github.com/Eddyswj/DTP)  
 
+---
 
 ## **Infomation Systems & Programming**  
 
