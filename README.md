@@ -107,3 +107,20 @@ A machine learning-powered crop prediction system to assist farmers in making da
 (Won best project for Data Driven World) 
 
 🔗 [Check the repository here](https://github.com/Eddyswj/DTP)  
+
+
+## **Infomation Systems & Programming**  
+
+### 🚀 Tools & Languages:  
+- **Java** - Backend logic
+- **XML** - Ui of the mobile app
+- **Firebase** - Storing of data
+- **Google Api** - location functions
+
+### 📌 Group Project: **Blink**  
+A mobile application that helps people to make friends both online and in person
+
+
+🔗 [Check the repository here](https://github.com/Eddyswj/BLINK.git)  
+
+[Check the poster here](https://www.canva.com/design/DAGkhsU3cXA/3a34xdM4MfA1kKiA7Ahc7Q/view?utm_content=DAGkhsU3cXA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3c5de74e71)
