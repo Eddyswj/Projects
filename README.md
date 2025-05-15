@@ -12,7 +12,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 
 #### **Generative Design**
 <details>
-  <summary>Summary</summary>
+  <summary>Click for Summary</summary>
   <br>
   A project combining geometric shapes and extrusions, controlled by various input variables to modify length and shape.  
   
@@ -30,7 +30,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 
 #### **Parametric Design**
 <details>
-  <summary>Summary</summary>
+  <summary>Click for Summary</summary>
   <br>
   A Fibonacci sequence-inspired design that integrates mathematical principles with artistic aesthetics.  
 
@@ -50,7 +50,7 @@ A compilation of individual and collaborative projects I’ve worked on during m
 - **Python** – Programming language  
 
 <details>
-  <summary>Summary</summary>
+  <summary>Click for Summary</summary>
   <br>
   This project was developed collaboratively with my classmates as part of a group assignment. We created a collection of six text-based minigames, accessible through a main menu (no GUI). Each game showcases different programming challenges, combining fun gameplay with coding principles.
 
@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/2004e9ce-b830-4ae4-a974-9e5b1d5023a5
 
 ### 👥 Group Project: **StrideSync**
 <details>
-  <summary>Summary</summary>
+  <summary>Click for Summary</summary>
   <br>
   
   __StrideSync__ is a wearable device designed to help paired runners maintain the same pace, even when physically apart. It was developed collaboratively with my classmates.  
