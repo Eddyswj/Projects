@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/2004e9ce-b830-4ae4-a974-9e5b1d5023a5
 ## **💡 Design Thinking and Innovation**
 
 ### 🛠️ Tools & Software:
-- **Flask** – Web server framework  
+- [**Flask**](https://github.com/c-xinghan/dti_webserver) – Web server framework 
 - **Raspberry Pi & Python** – Hardware programming  
 - **AdaFruit Neopixels** – LED light display  
 - **Canva, Adobe Illustrator, Photoshop** – Poster design  
