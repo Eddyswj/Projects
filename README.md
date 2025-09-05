@@ -98,11 +98,11 @@ https://github.com/user-attachments/assets/2004e9ce-b830-4ae4-a974-9e5b1d5023a5
 
 ## **Design Thinking Project**  
 
-### 🚀 Tools & Languages:  
+### Tools & Languages:  
 - **Python** - Machine Learning Model  
 - **HTML & CSS** - Web App  
 
-### 📌 Group Project: **Crop Prediction through ML**  
+### Group Project: **Crop Prediction through ML**  
 A machine learning-powered crop prediction system to assist farmers in making data-driven decisions. 
 (Won best project for Data Driven World) 
 
@@ -112,16 +112,41 @@ A machine learning-powered crop prediction system to assist farmers in making da
 
 ## **Infomation Systems & Programming**  
 
-### 🚀 Tools & Languages:  
+### Tools & Languages:  
 - **Java** - Backend logic
 - **XML** - Ui of the mobile app
 - **Firebase** - Storing of data
 - **Google Api** - location functions
 
-### 📌 Group Project: **Blink**  
+### Group Project: **Blink**  
 A mobile application that helps people to make friends both online and in person
 
 
 🔗 [Check the repository here](https://github.com/Eddyswj/BLINK.git)  
 
-[Check the poster here](https://www.canva.com/design/DAGkhsU3cXA/3a34xdM4MfA1kKiA7Ahc7Q/view?utm_content=DAGkhsU3cXA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3c5de74e71)
+---
+
+## **Elements of Software Construction**  
+
+### Tools & Languages: 
+**FrontEnd**
+- **React**: For building a dynamic and interactive user interface.
+- **Vite**: A fast build tool for modern web development, ensuring quick development and optimized builds.
+- **Tailwind CSS**: For styling the application and creating a responsive design.
+- **Google Maps API**: For embedding interactive maps to display hotel locations.
+
+**Backend**
+- **Node.js**: A JavaScript runtime for building the server-side logic.
+- **Express.js**: A lightweight framework for handling API requests and routing.
+- **Database**: MongoDB for storing account
+- **Stripe API**: Payment functions and security
+- **Clerk API**: User Profile & Session management
+  
+**Testing**
+- Vitest: Unit and Integration Testing
+- Cypress: End-to-End Testing
+
+### Group Project: **StayInn**  
+Full-stack hotel booking application designed to provide users with a seamless and intuitive experience for finding and booking their perfect stay.
+
+🔗 [Check the repository here](https://github.com/WindJammer6/34.-StayInn)  
